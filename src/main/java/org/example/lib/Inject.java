@@ -1,4 +1,4 @@
-package mate.academy.lib;
+package org.example.lib;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

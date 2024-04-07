@@ -1,7 +1,7 @@
-package mate.academy.service;
+package org.example.service;
 
 import java.util.List;
-import mate.academy.model.Product;
+import org.example.model.Product;
 
 public interface ProductService {
     List<Product> getAllFromFile(String filePath);

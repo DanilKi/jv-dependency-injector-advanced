@@ -1,6 +1,6 @@
-package mate.academy.service;
+package org.example.service;
 
-import mate.academy.model.Product;
+import org.example.model.Product;
 
 public interface ProductParser {
     /**

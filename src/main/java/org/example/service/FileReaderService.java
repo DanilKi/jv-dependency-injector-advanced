@@ -1,4 +1,4 @@
-package mate.academy.service;
+package org.example.service;
 
 import java.util.List;
 

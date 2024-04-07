@@ -1,4 +1,4 @@
-package mate.academy.model;
+package org.example.model;
 
 import java.math.BigDecimal;
 
